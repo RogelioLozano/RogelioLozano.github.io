@@ -13,7 +13,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Rogelio Lozano. Rogelio Emmanuel Lozano Aranda.'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -40,14 +40,14 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
-
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
-
+  # I believe the most important to solve a problem is not how much you know, but how you manage what you don't know. 
+  
+  Hi, I'm Rogelio Lozano. I have a bachelor's degree in physics and my professional interests are in business analytics and computational statistics. I'm deeply interested in how to deal with uncertainty and complex problems. On this site, you can find some of the projects I've worked on and articles about things I think could be interesting/useful for people with similar interests.
+  
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  Please, feel free to contact me [through my email](mailto:rogelio.aeloz@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40RleLozano) if you have any questions.
 
 #-------------------------------
 # Work Section
@@ -63,10 +63,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'twitter', link: 'https://twitter.com/RleLozano'}
+#- {icon: 'instagram', link: '#'}
+- {icon: 'github', link: 'https://github.com/RogelioLozano'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/rogelio-emmanuel-lozano-aranda/'}
+- {icon: 'envelope', link: 'mailto:rogelio.aeloz@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
