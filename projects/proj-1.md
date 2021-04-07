@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Network community discovery based time series clustering'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+In this analysis I'll briefly explain important concepts related to time series, network construction, proximity measures, and clustering algorithms. Please see the following [jupyter notebook](https://nbviewer.jupyter.org/github/RogelioLozano/AOFFTN/blob/master/Exploration_V3/network_based_tsclsut.ipynb) for an application of these ideas in a projected I worked on during my bachelor's thesis.
+
+
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
