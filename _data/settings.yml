@@ -53,11 +53,11 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Time series, network clustering', folder: 'proj+', file: 'projects/proj_timeseries_network.html'}
+- {name: 'Covid-19-arcgis pro simulated', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Multiple regression examples', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Time series forecasting', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Statistical relationship comparisons', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
