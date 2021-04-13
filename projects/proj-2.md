@@ -3,6 +3,5 @@ layout: post
 title: 'Project Two'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+In this small project I reproduced an interesting time series clustering [posted](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/analyzing-your-temporal-data-with-the-time-series-clustering-tool-in-arcgis-pro/) in a blog about the arcgis Pro tool. I found it interesting that it is actually quite simple to reproduce the results of a tool that they charge a fee to use. Here is the [notebook](https://github.com/RogelioLozano/rogeliolozano.github.io/blob/gh-pages/projects/time_series_COVID.html) with the analysis using python.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
