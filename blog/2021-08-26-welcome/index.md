@@ -1,25 +1,19 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [rogelio]
+tags:  [mental methods]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+To start smoothly, I'll share ideas I consider important to keep in mind when hunting counterexamples and rapidly discard conjectures that will go nowhere when solving difficult logical-constructive problems. Almost anyone subconsciously does think in two or three of these approaches, but it is useful to have a reminder of these methods of thinking.
 
-Simply add Markdown files (or folders) to the `blog` directory.
 
-Regular blog authors can be added to `authors.yml`.
+- Think small – Start with small examples because they are easier to construct and reason about and allow you to grasp the fundamental ideas that are in the core structure of the problem.
 
-The blog post date can be extracted from filenames, such as:
+- Think exhaustively – There are usually only a small number of possible instances for the first non-trivial value of n. For example, there are only three distinct ways two intervals on the line can occur: as disjoint intervals, as overlapping intervals, and as properly nesting intervals, one within the other. All cases of three intervals can be systematically constructed by adding a third segment in each possible way to these three instances. 
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+- Hunt for the weakness – If a proposed algorithm is of the form “always take the biggest” (better known as the greedy algorithm), think about why that might prove to be the wrong thing to do.
 
-A blog post folder can be convenient to co-locate blog post images:
+- Go for a tie – A devious way to break a greedy heuristic for example is to provide instances where everything is the same size. Suddenly the heuristic has nothing to base its decision on, and perhaps has the freedom to return something suboptimal as the answer.
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+- Seek extremes – Many counter-examples are mixtures of huge and tiny, left and right, few and many, near and far. It is usually easier to verify or reason about extreme examples than more muddled ones. 
