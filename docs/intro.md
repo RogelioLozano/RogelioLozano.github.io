@@ -2,11 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# What?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Docs to connect the dots !!  de información en mi carrera de ingeniería de software y generar conocimiento y experiencia/sabiduría sobre los stacks elegidos, las lecciones aprendidas, conexiones de conceptos díficiles de unir, mapas y pasos para la producción de minimum viable products. Notas sobre mi configuración personal de ambientes, noticias, opiniones y quizá ensayos sobre temas relacionados y ocacionalmente off-topic.
 
-## Getting Started
+# Why?
+
+We tend to forget some small details
 
 Get started by **creating a new site**.
 
