@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Docs to connect the dots!',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Only through time time is conquered.',
   favicon: 'static/img/favicon.ico',
 
   // Set the production url of your site here
