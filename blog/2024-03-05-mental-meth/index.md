@@ -1,6 +1,6 @@
 ---
-slug: welcome
-title: Welcome
+slug: Solving-logical-problems
+title: Mental methods to solve problems
 authors: [rogelio]
 tags:  [mental methods]
 ---
@@ -17,3 +17,6 @@ To start smoothly, I'll share ideas I consider important to keep in mind when hu
 - Go for a tie – A devious way to break a greedy heuristic for example is to provide instances where everything is the same size. Suddenly the heuristic has nothing to base its decision on, and perhaps has the freedom to return something suboptimal as the answer.
 
 - Seek extremes – Many counter-examples are mixtures of huge and tiny, left and right, few and many, near and far. It is usually easier to verify or reason about extreme examples than more muddled ones. 
+
+- Divide and conquer - A classical mental model to approach problems that can be divided into subproblems of smaller data size. The resulting structure after applying the method is usually a recursive tree where each node has the subproblem of smaller data size. One classical Example is MergeSort (with a runtime complexity of O(nlog(n)))
+

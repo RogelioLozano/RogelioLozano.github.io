@@ -64,8 +64,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+      metadata: [
+        {name: 'docs to connect the dots', content: 'transforming, information,knowledge, wisdom, machine, website, blog, web, app'},
+      ],
+
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.jpg',
       navbar: {
         title: 'Doc(t)s ---- Dot(c)s',
         logo: {
