@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconfig_develop_env=self.webpackChunkconfig_develop_env||[]).push([[3551],{4256:e=>{e.exports=JSON.parse('{"label":"economy","permalink":"/blog/tags/economy","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

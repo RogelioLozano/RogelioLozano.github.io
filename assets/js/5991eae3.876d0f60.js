@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconfig_develop_env=self.webpackChunkconfig_develop_env||[]).push([[7097],{1344:e=>{e.exports=JSON.parse('{"label":"logic","permalink":"/blog/tags/logic","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

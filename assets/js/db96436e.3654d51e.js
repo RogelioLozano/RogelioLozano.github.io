@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconfig_develop_env=self.webpackChunkconfig_develop_env||[]).push([[9052],{8794:e=>{e.exports=JSON.parse('{"label":"history","permalink":"/blog/tags/history","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkconfig_develop_env=self.webpackChunkconfig_develop_env||[]).push([[733],{9676:e=>{e.exports=JSON.parse('{"label":"mental methods","permalink":"/blog/tags/mental-methods","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

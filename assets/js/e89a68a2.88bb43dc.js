@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconfig_develop_env=self.webpackChunkconfig_develop_env||[]).push([[273],{7895:e=>{e.exports=JSON.parse('{"label":"systems-design","permalink":"/blog/tags/systems-design","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
