@@ -2,11 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rogeliolozano.github.io/blog</id>
     <title>Docs to connect the dots! Blog</title>
-    <updated>2024-03-18T00:00:00.000Z</updated>
+    <updated>2024-03-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rogeliolozano.github.io/blog"/>
     <subtitle>Docs to connect the dots! Blog</subtitle>
     <icon>https://rogeliolozano.github.io/static/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mexico IT research]]></title>
+        <id>https://rogeliolozano.github.io/blog/IT-market</id>
+        <link href="https://rogeliolozano.github.io/blog/IT-market"/>
+        <updated>2024-03-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cómo es el estado de un mercado?]]></summary>
+        <content type="html"><![CDATA[<p>Cómo es el estado de un mercado?</p>
+<p>El conocimiento del estado requiere un estudio más táctico de las tendencias de oferta y demanda en un sector específico de una industria.</p>
+<p>Cómo es el estado de un sector de la economía?</p>
+<p>Este conocimiento requiere un estudio más estratégico de un sector específico de la actividad economica.
+Puedo obtener información de una industria mediante metricas clave como marketsize, growth rate, profitability margins, technological innovation, regulatory compliance and industry concentration (market share of top players)</p>
+<p>Qué estado está la industria/services en México?</p>
+<p>Most important industries in Mexico is the automotive industry. Difference with other countries is that Mexico is not only an assembler, its industry also produces technologically complex components and engages in some research and development activities, an example of that is the new Volkswagen Jetta model with up to 70% of parts designed in Mexico.</p>
+<p>An Original Equipment Manufacturer (<strong>OEM</strong>) makes components of another company's products. An OEM component might be a part, a subsystem, or software. Examples include operating systems (OS) and microprocessors in computers. Typically, the computer manufacturer makes neither the microprocessor nor the OS.</p>
+<p>Engineering and design is also important in Mexico, driven by low cost of manufactering and desing in Mexico. Strategic position as major consumer of electornics market.
+German multinational engineering and electronics conglomerate <em>Siemens</em> has a significant Mexican base.</p>
+<p>From late 1990's , Mexico started to shift from simple line assembly work to more advanced work such as research, design, and the manufacture of advanced electronics systems such as LCD panels, semiconductors, microprocessors etc.</p>
+<p>In the energy sector of Oil, Mexico has Pemex, actually the largest company in Mexico. It is still the most valuable company, nevertheless, its profit for the government (which taxes it for almost 62%) has been declining steadily over decades. In 1980, oil exports accounted for 61.6% of total exports; by 2010 it was only 7.3%. oil</p>
+<p>Retail sector with FAMSA and Walmart is strong in Mexico.</p>
+<p>A wave of acquisitions has left Mexico's financial sector in foreign hands. This has advantages such as increased competitive financial market leading to better financial services for the Mexican population but also drawbacks such as liquidity, capital flow and market stability problems in case of crisis of political and wars problems between countries.</p>
+<p>Services are important (turism and financial services). Manufacturing is important. Oil is still important in Mexico's economy.</p>
+<p>Qué puntos de referencia tiene para compararse en otros paises?
+GDP growth for exogenous or internal factors. How technological advancements impact factors of production: labor, capital, entrepeneourship, land.</p>
+<p>Mexico is a country of services:</p>
+<ul>
+<li>58.8% of GDP is for services (tertiary sector)</li>
+<li>32.1% of GDP is for industry (secundary sector)</li>
+<li>4.1% of GDP is for agriculture (primary sector)</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="yo-tengo-una-empresa-en-la-industria-produciendo-o-servicio-sirviendo-x-qué-quiero-de-un-colaboradorempleado-qué-busco-de-él">Yo tengo una empresa en la industria produciendo o servicio sirviendo X. Qué quiero de un colaborador/empleado, qué busco de él?<a href="https://rogeliolozano.github.io/blog/IT-market#yo-tengo-una-empresa-en-la-industria-produciendo-o-servicio-sirviendo-x-qu%C3%A9-quiero-de-un-colaboradorempleado-qu%C3%A9-busco-de-%C3%A9l" class="hash-link" aria-label="Direct link to Yo tengo una empresa en la industria produciendo o servicio sirviendo X. Qué quiero de un colaborador/empleado, qué busco de él?" title="Direct link to Yo tengo una empresa en la industria produciendo o servicio sirviendo X. Qué quiero de un colaborador/empleado, qué busco de él?">​</a></h3>
+<p>Tengo tareas ambiguas sin dirección clara que necesitan ser realizadas, él puede realizarlas?</p>
+<p>¿Cómo evaluo si él puede realizarlas?</p>
+<p>Debo evaluar claramente por qué quiere trabajar en mi empresa.</p>
+<p>A qué rol está aplicando para yo saber qué tipo de preguntas dirigir y entender su motivación e interes.</p>
+<p>Si desarrollo un producto, entonces el debe ser eficiente en el desarrollo de ese producto.</p>
+<p>Si doy un servicio, espero que conozca sobre el servicio y tenga las cualidades necesarias para mantener y mejorar la oferta de ese servicio.</p>
+<p>Qué factores de confianza debo evaluar para decidir si hacer una oferta o no?</p>
+<p>Si solo quiere dinero, se irá cuando le ofrezcan más dinero.
+Si solo quiere aprender, se quedará en tanto el sienta que sigue aprendiendo.
+Se quedará si tiene una fuerte convicción sobre lo que la empresa sirve o produce.</p>
+<ol>
+<li>Identifica 5 empresas de servicios o productos de software que me parezca que hacen algo increible.</li>
+<li>Realiza una tabla con: empresa, qué hace?, cómo lo hace? por qué lo hace? cómo puedo contribuir? qué skills tengo que son transferibles? Qué roles de labores tienen estructurados? Qué personas son los líderes de equipos de roles en esa empresa? Qué retos tiene la empresa? Cómo puedo contribuir a solucionar esos retos?</li>
+</ol>
+<table><thead><tr><th>Empresa</th><th>Qué?</th><th>Cómo?</th><th>Por qué?</th><th>Cómo contribuir?</th><th>Qué skills son transferibles?</th><th>Nombres</th><th>Retos</th></tr></thead><tbody><tr><td>IBM</td><td>Empresa de tecnología.</td><td>Realizan avances tecnológicos. Fabrica y comercializa hardware y software. Ofrece servicios de infraestructura, alojamiento de internet y consultoría.</td><td>Liderar un cambio innovador para mejorar los negocios,<br> la sociedad y la condición humana</td><td>Liderazgo, comunicación, desarrollo de productos de software</td><td></td><td></td><td></td></tr></tbody></table>
+<p>Infrastructure and Technology roles:</p>
+<p><strong>Mainframe Technical Specialist</strong>
+Code, maintain and scale our mainframe technology, which is critical for servers and applications that require high resiliency and agility.</p>
+<p><strong>Storage Specialist</strong>
+Design, analyze and manage the biggest and most complex storage solutions for our clients to drive performance and reliability.</p>
+<p><strong>Site Reliability Engineer</strong>
+Be in charge of combining software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems.</p>
+<p>Security Roles:</p>
+<p><strong>Security Specialist</strong>
+Become a thought leader in DevSecOps practices and demonstrate hands-on expertise with security practices across the infrastructure and applications.</p>
+<p>Software Engineering Roles:</p>
+<p><strong>Software Engineer</strong>
+Create complex software systems for some of the biggest clients in the world.</p>
+<p><strong>Full Stack Developer</strong>
+Integrate multiple systems with your code in an agile manner, every step of the way.</p>
+<p><strong>DevOps Engineer</strong>
+Work with our development and systems team in huge projects to automate, scale and deploy in an agile way.</p>]]></content>
+        <author>
+            <name>Rogelio Lozano</name>
+            <uri>https://github.com/RogelioLozano</uri>
+        </author>
+        <category label="market-research" term="market-research"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I want?]]></title>
+        <id>https://rogeliolozano.github.io/blog/what-I-want</id>
+        <link href="https://rogeliolozano.github.io/blog/what-I-want"/>
+        <updated>2024-03-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What do I need to learn to know what I want?]]></summary>
+        <content type="html"><![CDATA[<p>What do I need to learn to know what I want?</p>
+<p>I want to learn about economy and how work transform societies.</p>
+<p>I want to learn about organizations-startups and their structure.</p>
+<p>I want to learn about what do I need in Mexico to create an organization.</p>
+<p>I want to learn about Mexico's history.</p>
+<p>I want to learn about authority.</p>
+<p>I want to learn to build relations.</p>
+<p>I want to learn what is market capitalization.</p>
+<p>I want to learn what I do not know.</p>
+<p>I want to know the leaders in Mexico's software industry.</p>
+<ul>
+<li>Create a table:
+Industry : companies <!-- -->:leaders</li>
+</ul>
+<p>Research:
+What is that industry why it is important?
+What does the company and why it is important?
+What leaders are in those companies, what do they do?
+How can I contribute?</p>
+<p>Where do I begin?</p>]]></content>
+        <author>
+            <name>Rogelio Lozano</name>
+            <uri>https://github.com/RogelioLozano</uri>
+        </author>
+        <category label="introspection" term="introspection"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do I like?]]></title>
+        <id>https://rogeliolozano.github.io/blog/self-exploration</id>
+        <link href="https://rogeliolozano.github.io/blog/self-exploration"/>
+        <updated>2024-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What do I like?]]></summary>
+        <content type="html"><![CDATA[<p>What do I like?</p>
+<p>I like to learn and integrate it into my worldview.</p>
+<p>I like to find new methods to learn and make the integrative process of information into knowledge more holistic.</p>
+<p>I like to understand the world around me.</p>
+<p>I love to listen to music.</p>
+<p>I love to think and explore herustically how all I am changes or reacts or function every moment.</p>
+<p>I love to use my knoweldge and see how everythings fits together after reading about different topics.</p>
+<p>I like to feel curiosity for what is in our planet, why it is here and how.</p>
+<p>I love to feel energized and focused, so I love practicing 氣功.</p>
+<p>I like to think of things that can't be seen, and how they impact the seen reality. I like to understand not obvious forces and mechanisms that power the movement of the reality.</p>
+<p>I like to understand how the history impact the present and the civilization I'm living everyday.</p>
+<p>I like to better understand why we do what we do as a society, and ask why are we focused on those things, are they really necessary or is just a very old force that still exits only for historical innertia?</p>
+<p>I love my life but I do not accept everything as it is, I like to think are better ways to do this?</p>
+<p>I deeply feel the pain and fear of others as I remember how it feel and how difficult it is to overcome it.</p>
+<p>I like to think and feel that my life matters and it is relvant to our reality, to our world somehow, that I'm not only an irrelevant dissipative structure that lasts just a bit more than a tornado.</p>
+<p>I like to feel the empowering sense that knowledge of our different sectors of civilization give me.</p>
+<p>I like to learn how individuality and social distancing tendencies can be equilibrated with authority and social cohesion to balance my personality and be able to contribute but also to feel freedom to expose without extreme consequences my ideas.</p>
+<p>I like to empower people around me with a mental state of freedom so they can feel less enslaved by current powerful states and at the same time direct them towards creative innovation. Not towards resentment, anger and ultimately criminal activity.</p>
+<p>I like the balanced focus of oriental mindsets like buddism, taoism and confusionism.</p>
+<p>I like to know whatever I am more and by knowing me more, know others. I like to increase my consciousness.</p>
+<p>I love to still joy spontaneously like a child and enjoy for moments those deep feelings.</p>
+<p>I love to find ever better approaches to solve my problems. There must be a way to do what I want to achieve!</p>
+<p>I love to write what I think.</p>
+<p>I like to develop methods although I then have difficulty following them!</p>
+<p>I like to reciprocate and cooperate instead of compete, I think the biggest ever competition is oneself, that is the harder contrincant.</p>
+<p>I like to inspire a long-term view to foster challenging each other collaboratively instead of short-term competition.</p>
+<p>I like to understand that the best way to help others is giving the living example of what I believe.</p>]]></content>
+        <author>
+            <name>Rogelio Lozano</name>
+            <uri>https://github.com/RogelioLozano</uri>
+        </author>
+        <category label="introspection" term="introspection"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Super short summary of The Worldly Philosophers]]></title>
         <id>https://rogeliolozano.github.io/blog/economic-ideas</id>
@@ -53,28 +192,6 @@
         <category label="systems-design" term="systems-design"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is frontend automation near?]]></title>
-        <id>https://rogeliolozano.github.io/blog/Automating-frontend</id>
-        <link href="https://rogeliolozano.github.io/blog/Automating-frontend"/>
-        <updated>2024-03-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Will programming web applications be completely automated?]]></summary>
-        <content type="html"><![CDATA[<p>Will programming web applications be completely automated?</p>
-<p>Though question to answer. So let's analyze it and try to formulate a good response. The idea that comes to my mind to start exploring the landscape consists in approaching a principled consideration in order to accumulate knowledge and arrive to an informed conclusion.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="historical-perspective">Historical perspective<a href="https://rogeliolozano.github.io/blog/Automating-frontend#historical-perspective" class="hash-link" aria-label="Direct link to Historical perspective" title="Direct link to Historical perspective">​</a></h3>
-<p>I'll just divide the pharagraphs for order of gradual evolution but was not a sequential process, all the advancements overlap in time, space, and industry axes.</p>
-<p>First, Alan Turing, John Von Neumann, among others developed the foundational concepts of computing and programming. This was a highly manual job, deep <em>understanding</em> of computer's architecture was required.</p>
-<p>Second, advances in early machine code for specific computer architectures. Team led by Maurice Wilkes developed the concept of microprogramming (<a href="https://dl.acm.org/doi/10.1145/1458043.1458047" target="_blank" rel="noopener noreferrer">https://dl.acm.org/doi/10.1145/1458043.1458047</a>). A method of implementing the behavior of machine instructions by means of more elementary operations, with direct correspondence with the functions of the physical components of the computer. The control of instructions was hardwired, composed of circuits that corresponds with execution of each instruction. This was difficult to <em>modify</em>, expensive to <em>design</em> but fast. Microprogrammed allowed for simpler designs, easier to modify but slower than hardwired control.</p>
-<p>Assembly language emerged as a symbolic representation of machine code instructions. Instead of seeing addresses of instructions, programmers saw <em>abstract</em> symbols for instructions like read from memory, store into register rsp, etc.. This was easier to <em>understand</em>, <em>modify</em> and <em>maintain</em> as compared to raw machine code. Still, it was architecture instruction set dependent.</p>
-<p>Then, the emergence of higher-level programming languages. With all the widely known advantages in <em>portability</em>, <em>understanding</em>, <em>maintainability</em>, among others. For what I know, assembly is possible only used for critical performance, systems programming, operating system development and embedded systems nowadays.</p>
-<h3></h3>
-<p>Now, is very general, because for what I know, changes happened gradually and at different phases in different industries and at different scales.</p>]]></content>
-        <author>
-            <name>Rogelio Lozano</name>
-            <uri>https://github.com/RogelioLozano</uri>
-        </author>
-        <category label="AI" term="AI"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is a question?]]></title>
         <id>https://rogeliolozano.github.io/blog/What-is-a-question</id>
         <link href="https://rogeliolozano.github.io/blog/What-is-a-question"/>
@@ -112,6 +229,31 @@
         </author>
         <category label="epistemology" term="epistemology"/>
         <category label="logic" term="logic"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is frontend automation near?]]></title>
+        <id>https://rogeliolozano.github.io/blog/Automating-frontend</id>
+        <link href="https://rogeliolozano.github.io/blog/Automating-frontend"/>
+        <updated>2024-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Will programming web applications be completely automated?]]></summary>
+        <content type="html"><![CDATA[<p>Will programming web applications be completely automated?</p>
+<p>Though question to answer. So let's analyze it and try to formulate a good response. The idea that comes to my mind to start exploring the landscape consists in approaching a principled consideration in order to accumulate knowledge and arrive to an informed conclusion.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="historical-perspective">Historical perspective<a href="https://rogeliolozano.github.io/blog/Automating-frontend#historical-perspective" class="hash-link" aria-label="Direct link to Historical perspective" title="Direct link to Historical perspective">​</a></h3>
+<p>I'll just divide the pharagraphs for order of gradual evolution but was not a sequential process, all the advancements overlap in time, space, and industry axes.</p>
+<p>First, Alan Turing, John Von Neumann, among others developed the foundational concepts of computing and programming. This was a highly manual job, deep <em>understanding</em> of computer's architecture was required.</p>
+<p>Second, advances in early machine code for specific computer architectures. Team led by Maurice Wilkes developed the concept of microprogramming (<a href="https://dl.acm.org/doi/10.1145/1458043.1458047" target="_blank" rel="noopener noreferrer">https://dl.acm.org/doi/10.1145/1458043.1458047</a>). A method of implementing the behavior of machine instructions by means of more elementary operations, with direct correspondence with the functions of the physical components of the computer. The control of instructions was hardwired, composed of circuits that corresponds with execution of each instruction. This was difficult to <em>modify</em>, expensive to <em>design</em> but fast. Microprogrammed allowed for simpler designs, easier to modify but slower than hardwired control.</p>
+<p>Assembly language emerged as a symbolic representation of machine code instructions. Instead of seeing addresses of instructions, programmers saw <em>abstract</em> symbols for instructions like read from memory, store into register rsp, etc.. This was easier to <em>understand</em>, <em>modify</em> and <em>maintain</em> as compared to raw machine code. Still, it was architecture instruction set dependent.</p>
+<p>Then, the emergence of higher-level programming languages. With all the widely known advantages in <em>portability</em>, <em>understanding</em>, <em>maintainability</em>, among others. For what I know, assembly is possible only used for critical performance, systems programming, operating system development and embedded systems nowadays.</p>
+<h3></h3>
+<p>Now, is very general, because for what I know, changes happened gradually and at different phases in different industries and at different scales.</p>
+<p><a href="https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek" target="_blank" rel="noopener noreferrer">Great article for scenario planning for an AGI future</a></p>
+<p>(<a href="https://arxiv.org/abs/2302.06590" target="_blank" rel="noopener noreferrer">The Impact of AI on Developer Productivity: Evidence from GitHub Copilot </a>)</p>
+<p><a href="https://static1.squarespace.com/static/57d002e01b631bc215df193b/t/6149b24140c1c1764ed27707/1632219713790/Susskind%2C+Handbook%2C+Updated%2C+21+September+2021+.pdf" target="_blank" rel="noopener noreferrer">Technological Unemployment</a></p>]]></content>
+        <author>
+            <name>Rogelio Lozano</name>
+            <uri>https://github.com/RogelioLozano</uri>
+        </author>
+        <category label="AI" term="AI"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mental methods to solve problems]]></title>

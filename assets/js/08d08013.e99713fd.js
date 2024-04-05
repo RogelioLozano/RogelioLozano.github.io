@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconfig_develop_env=self.webpackChunkconfig_develop_env||[]).push([[7139],{3967:e=>{e.exports=JSON.parse('{"label":"market-research","permalink":"/blog/tags/market-research","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
