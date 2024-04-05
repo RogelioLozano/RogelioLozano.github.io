@@ -23,14 +23,11 @@ Then, the emergence of higher-level programming languages. With all the widely k
 ### 
 Now, is very general, because for what I know, changes happened gradually and at different phases in different industries and at different scales.  
 
+[Great article for scenario planning for an AGI future](https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek)
 
+([The Impact of AI on Developer Productivity: Evidence from GitHub Copilot ](https://arxiv.org/abs/2302.06590))
 
-
-
-
-
-
-
+[Technological Unemployment](https://static1.squarespace.com/static/57d002e01b631bc215df193b/t/6149b24140c1c1764ed27707/1632219713790/Susskind%2C+Handbook%2C+Updated%2C+21+September+2021+.pdf)
 
 
 

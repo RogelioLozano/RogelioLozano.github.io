@@ -4,25 +4,23 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    // title: '無為 (wu wei)',
     title: '陰陽 (yingyang)',
     Svg: require('@site/static/img/Yin_yang.svg').default,
     description: (
       <>
-      I like to explain things holistically.
+      "When the old man on the frontier lost his mare, who could have guessed it was a blessing in disguise". -- Chinese proverb
       </>
     ),
   },
-  // {
-  //   title: 'Focus on What Matters',
-  //   Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-  //   description: (
-  //     <>
-  //       Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-  //       ahead and move your docs into the <code>docs</code> directory.
-  //     </>
-  //   ),
-  // },
+  {
+    title: 'Dissipative Structures',
+    Svg: require('@site/static/img/dissipative_struct.svg').default,
+    description: (
+      <>
+      "When a system is far from equilibrium, small islands of coherence have the capacity to shift the entire system".-- Ilya Prigogene
+      </>
+    ),
+  },
   // {
   //   title: 'Powered by React',
   //   Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
