@@ -12,4 +12,4 @@ We tend to forget, ordering what we read/hear/see, that is, structing the inform
 
 
 # How? 
-
+Writing! 

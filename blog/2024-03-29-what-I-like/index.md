@@ -7,6 +7,8 @@ tags:  [introspection]
 
 What do I like?
 
+[Great explain of chinese philosophy, Chinese Dialectical Thinking—the Yin Yang Model](https://philarchive.org/archive/XINCDT)
+
 I like to learn and integrate it into my worldview.
 
 I like to find new methods to learn and make the integrative process of information into knowledge more holistic.
