@@ -36,6 +36,34 @@ The Business cycle has 4 stages:</p>
             <category>economy</category>
         </item>
         <item>
+            <title><![CDATA[What I want?]]></title>
+            <link>https://rogeliolozano.github.io/blog/what-I-want</link>
+            <guid>https://rogeliolozano.github.io/blog/what-I-want</guid>
+            <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[What do I need to learn to know what I want?]]></description>
+            <content:encoded><![CDATA[<p>What do I need to learn to know what I want?</p>
+<p>I want to learn about economy and how work transform societies.</p>
+<p>I want to learn about organizations-startups and their structure.</p>
+<p>I want to learn about what do I need in Mexico to create an organization.</p>
+<p>I want to learn about Mexico's history.</p>
+<p>I want to learn about authority.</p>
+<p>I want to learn to build relations.</p>
+<p>I want to learn what is market capitalization.</p>
+<p>I want to learn what I do not know.</p>
+<p>I want to know the leaders in Mexico's software industry.</p>
+<ul>
+<li>Create a table:
+Industry : companies <!-- -->:leaders</li>
+</ul>
+<p>Research:
+What is that industry why it is important?
+What does the company and why it is important?
+What leaders are in those companies, what do they do?
+How can I contribute?</p>
+<p>Where do I begin?</p>]]></content:encoded>
+            <category>introspection</category>
+        </item>
+        <item>
             <title><![CDATA[Mexico IT research]]></title>
             <link>https://rogeliolozano.github.io/blog/IT-market</link>
             <guid>https://rogeliolozano.github.io/blog/IT-market</guid>
@@ -98,34 +126,6 @@ Integrate multiple systems with your code in an agile manner, every step of the 
 <p><strong>DevOps Engineer</strong>
 Work with our development and systems team in huge projects to automate, scale and deploy in an agile way.</p>]]></content:encoded>
             <category>market-research</category>
-        </item>
-        <item>
-            <title><![CDATA[What I want?]]></title>
-            <link>https://rogeliolozano.github.io/blog/what-I-want</link>
-            <guid>https://rogeliolozano.github.io/blog/what-I-want</guid>
-            <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[What do I need to learn to know what I want?]]></description>
-            <content:encoded><![CDATA[<p>What do I need to learn to know what I want?</p>
-<p>I want to learn about economy and how work transform societies.</p>
-<p>I want to learn about organizations-startups and their structure.</p>
-<p>I want to learn about what do I need in Mexico to create an organization.</p>
-<p>I want to learn about Mexico's history.</p>
-<p>I want to learn about authority.</p>
-<p>I want to learn to build relations.</p>
-<p>I want to learn what is market capitalization.</p>
-<p>I want to learn what I do not know.</p>
-<p>I want to know the leaders in Mexico's software industry.</p>
-<ul>
-<li>Create a table:
-Industry : companies <!-- -->:leaders</li>
-</ul>
-<p>Research:
-What is that industry why it is important?
-What does the company and why it is important?
-What leaders are in those companies, what do they do?
-How can I contribute?</p>
-<p>Where do I begin?</p>]]></content:encoded>
-            <category>introspection</category>
         </item>
         <item>
             <title><![CDATA[What do I like?]]></title>
@@ -191,8 +191,12 @@ How can I contribute?</p>
 <p>But each crisis is worse than the last one, given that the bigger firms absorb the smaller ones and when these industrial monsters fall, the harm to the society is stronger. This would lead to the colapse of capitalism in the end.</p>
 <p>It's great that Marx was able to predict economic cycles and consequences of those cycles over the long run of big industries, i.e., benefits tend to go down always. The only way to solve this is that the whole economy grows. This requires innovation, techonological progress. Companies are obliged to innovate. To sum up the model of dialectical materialism was great at predicting future process and events.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="hobson-and-marshall">Hobson and Marshall.<a href="https://rogeliolozano.github.io/blog/economic-ideas#hobson-and-marshall" class="hash-link" aria-label="Direct link to Hobson and Marshall." title="Direct link to Hobson and Marshall.">​</a></h2>
-<p>Then the Victorian Age started and almost all the formal economist saw the economy from the cold and static academic side. <strong>Marshall</strong> in his "Principles of Economics" described the economic machinery as a system of weights and counter-weight that balanced and allows to reach an equilibrium in the economy. It also considered for the first time the economic ideas separated from political economics, this is, the separation of economy from the ideas that related the distribution of power in hierarchical societies that ended up in creating a particular social order and their associated production and distribution of resources and goods.</p>
-<p>On the other hand <strong>Hobson</strong>, was an english economist that worked on the concept of <strong>Imperialism</strong> as a new form of capitalism drived by the requirement of finding new markets to sell national products and avoid excesive offert and low demand if those products were only to be sell in their original national markets. The desire to find new markets to expand the earnings coupled with the searching of row materials (gold, silver, oil, etc.) prompted invasions of new territories and the period of colonialism that characterized the XIX century and the initial years of the XX century, actually this hunger for new colonies (opening up new markets and access to profitable commodities) led to wars between nations like Germany, Italy, England and France, this was part of the reasons that originated the first world war. Hobson's works influnced Vladimir Lenin's theory of underconsumption.</p>]]></content:encoded>
+<p>Then the Victorian Age started and almost all the formal economist saw the economy from the cold and static academic side. <strong>Alfred Marshall</strong> in his "Principles of Economics" described the economic machinery as a system of weights and counter-weight that balanced and allows to reach an equilibrium in the economy. It also considered for the first time the economic ideas separated from political economics, this is, the separation of economy from the ideas that related the distribution of power in hierarchical societies that ended up in creating a particular social order and their associated production and distribution of resources and goods.</p>
+<p>On the other hand <strong>Hobson</strong>, was an english economist that worked on the concept of <strong>Imperialism</strong> as a new form of capitalism drived by the requirement of finding new markets to sell national products and avoid excesive offert and low demand if those products were only to be sell in their original national markets. The desire to find new markets to expand the earnings coupled with the searching of row materials (gold, silver, oil, etc.) prompted invasions of new territories and the period of colonialism that characterized the XIX century and the initial years of the XX century, actually this hunger for new colonies (opening up new markets and access to profitable commodities) led to wars between nations like Germany, Italy, England and France, this was part of the reasons that originated the first world war. Hobson's works influnced Vladimir Lenin's theory of underconsumption.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="john-maynard-keynes">John Maynard Keynes<a href="https://rogeliolozano.github.io/blog/economic-ideas#john-maynard-keynes" class="hash-link" aria-label="Direct link to John Maynard Keynes" title="Direct link to John Maynard Keynes">​</a></h2>
+<p>One of the most imporatant economists of the 19-20th centuries. "The economic consequences of peace" was influencial because in it he discussed the economic aspects of The Treaty of Versailles. Where he exposed that the winning nations did not seek to impose good treaties for the economic of even their own countires but the clauses were mainly motivated by resentment. In his book "The General Theory of Employment, Interest, and Money" one key aspect he mentioned was the notion of the economic machinery to require intervention from the government to release itself from economic stagnations due to the lack of private investment by businessmen and the related lack of economic activity (less flow of money =&gt; less income =&gt; less expending =&gt; less income (as the expenditure of someone is the income of someone else) =&gt; less capacity to save money =&gt; less money to invert =&gt; less economic activity =&gt; stagnation). So traditionally, government would decrease the price of borrowing savings, i.e. it would decrease the interest to incentive private inversion and incentive the economic overall. Nevertheless, Keynes pointed out that it is possible that given a certain gap in the cycle, there could be stagnations that would require further intervention from the governement to reactivate the economy, such as: creating jobs for public affairs as sweeping leaves from the streets and such. And also lending money and making arranges with private parties to incentivize inversion and reactive the economy.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="joseph-alois-schumpeter">Joseph Alois Schumpeter<a href="https://rogeliolozano.github.io/blog/economic-ideas#joseph-alois-schumpeter" class="hash-link" aria-label="Direct link to Joseph Alois Schumpeter" title="Direct link to Joseph Alois Schumpeter">​</a></h2>
+<p>Was the cause of giving the current understanding of the concept and social figure of a "entrepreneur": A individual from a sociaty that independently of its original social stratum, given its exceptional leadership capabilities, it would excel and innovate the markets or create even new ones with its inventions or optimizations of productions processes. Among other things, he also stressed the importance of considering different periods of economic business cycles. One long of about 60 years, one more short of about 10 years and smaller ones within the formers. He also considered that Capitalism would collapse but for different reasons as those posited by Marx. One masterpiece to read about is his book titled: "History of economic analysis"</p>]]></content:encoded>
             <category>economy</category>
             <category>history</category>
         </item>
