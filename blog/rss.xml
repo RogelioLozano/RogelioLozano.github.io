@@ -4,10 +4,39 @@
         <title>Docs to connect the dots! Blog</title>
         <link>https://rogeliolozano.github.io/blog</link>
         <description>Docs to connect the dots! Blog</description>
-        <lastBuildDate>Sat, 06 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Mastering ninja javascript concepts and models]]></title>
+            <link>https://rogeliolozano.github.io/blog/ninja-js</link>
+            <guid>https://rogeliolozano.github.io/blog/ninja-js</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Why javascript?]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-javascript">Why javascript?<a href="https://rogeliolozano.github.io/blog/ninja-js#why-javascript" class="hash-link" aria-label="Direct link to Why javascript?" title="Direct link to Why javascript?">​</a></h2>
+<p>Javascript has become the lingua franca of the browser. As such, learning it can uncover powerful skills to understand new frameworks, tools or systems written for the browser and also to be able to write down one myself one day!</p>
+<p>To that end, is of priority to understand how the browser works.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-browser-models-of-execution">Web browser models of execution.<a href="https://rogeliolozano.github.io/blog/ninja-js#web-browser-models-of-execution" class="hash-link" aria-label="Direct link to Web browser models of execution." title="Direct link to Web browser models of execution.">​</a></h2>
+<p>The browser is quite ample of a theme =&gt; Main principle to begin:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="client-side-web-application-life-cycle">Client-side web application Life Cycle<a href="https://rogeliolozano.github.io/blog/ninja-js#client-side-web-application-life-cycle" class="hash-link" aria-label="Direct link to Client-side web application Life Cycle" title="Direct link to Client-side web application Life Cycle">​</a></h2>
+<p>Consists of two phases:</p>
+<ol>
+<li><strong>Page building</strong>: The DOM (document object model) is built from the markup language html. The elements of the DOM tree are created and rendered in the browser and displayed in the webpage. The css styling and js code is also loaded and if there are js blocks of code, they influence the state of the client-side application and can create or alter or modify or almost anything related to DOM elements. Like creating new nodes, registering event handlers to certain actions like user interactions or server side events. During this phase, the browser execution can shift between rendering the DOM and executing javascript code. This is why JS is a hell of a lot useful for web development!</li>
+<li><strong>Event handling</strong>: Once step one is finished, the event handling phase starts. It consists of listening to events stored in an Event Queue dispatched in a FIFO order by their corresponding event listeners registered in the previous phase. This loop keeps going, listening to new events added to the Queue and handling them by event handlers, it only ends when the page is closed or new browser I suspect the suspension mode that some tabs fall in when inactive for a period of time is the same as stopping the execution of the Event Loop. Okay, according to chatgpt:</li>
+</ol>
+<p>"Even in an inactive tab, the event loop continues to run, but with limited or deferred activity to conserve resources."</p>
+<p>Browsers (such as chrome, safari, mozilla) have <strong>single threaded execution model</strong> this means that only one flow of execution can be active at a time.</p>
+<p>Now that we now more about the execution context of js programs, let's move on to know about js and its importance.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="javascript-functional-programming-paradigm">Javascript functional programming paradigm<a href="https://rogeliolozano.github.io/blog/ninja-js#javascript-functional-programming-paradigm" class="hash-link" aria-label="Direct link to Javascript functional programming paradigm" title="Direct link to Javascript functional programming paradigm">​</a></h2>
+<p>The functional paradigm of js is key to exploit is most powerful capabilities to develop programs. Js functions are first-class citizens of the langauge, which means that they can be used whenever an object is used. They can be defined as expressions literals or single-statements. This function expressions can be passed as parameters, assigned to bindings, returned from other functions or methods and so on.</p>
+<p><strong>-------&gt; The key to have in mind is</strong>: <em>the flexibility of using js functions allow to perform sneaky changes throught the whole codebase, declaring, instantiating, and in sum using encapsulated blocks of code that define verbs (higher level of abstractions actions) whenever we need them; fostering modularization, reusability and maintainability.</em></p>
+<p>References:</p>
+<ul>
+<li>Secrets Of The Javascript Ninja. John Resig and Bear Bibeault. Manning Publications. December 2012.</li>
+</ul>]]></content:encoded>
+            <category>developing</category>
+        </item>
         <item>
             <title><![CDATA[Useful economic concepts]]></title>
             <link>https://rogeliolozano.github.io/blog/economic-concepts</link>
@@ -34,34 +63,6 @@ The Business cycle has 4 stages:</p>
 </ul>
 <p><strong>Technological advancements</strong>: Refers to changes in production processes or the invention of new products that serve as inputs to produce others. With techonological advances, we can increase the production as it afects the factors of production of capital and labor.</p>]]></content:encoded>
             <category>economy</category>
-        </item>
-        <item>
-            <title><![CDATA[What I want?]]></title>
-            <link>https://rogeliolozano.github.io/blog/what-I-want</link>
-            <guid>https://rogeliolozano.github.io/blog/what-I-want</guid>
-            <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[What do I need to learn to know what I want?]]></description>
-            <content:encoded><![CDATA[<p>What do I need to learn to know what I want?</p>
-<p>I want to learn about economy and how work transform societies.</p>
-<p>I want to learn about organizations-startups and their structure.</p>
-<p>I want to learn about what do I need in Mexico to create an organization.</p>
-<p>I want to learn about Mexico's history.</p>
-<p>I want to learn about authority.</p>
-<p>I want to learn to build relations.</p>
-<p>I want to learn what is market capitalization.</p>
-<p>I want to learn what I do not know.</p>
-<p>I want to know the leaders in Mexico's software industry.</p>
-<ul>
-<li>Create a table:
-Industry : companies <!-- -->:leaders</li>
-</ul>
-<p>Research:
-What is that industry why it is important?
-What does the company and why it is important?
-What leaders are in those companies, what do they do?
-How can I contribute?</p>
-<p>Where do I begin?</p>]]></content:encoded>
-            <category>introspection</category>
         </item>
         <item>
             <title><![CDATA[Mexico IT research]]></title>
@@ -126,6 +127,34 @@ Integrate multiple systems with your code in an agile manner, every step of the 
 <p><strong>DevOps Engineer</strong>
 Work with our development and systems team in huge projects to automate, scale and deploy in an agile way.</p>]]></content:encoded>
             <category>market-research</category>
+        </item>
+        <item>
+            <title><![CDATA[What I want?]]></title>
+            <link>https://rogeliolozano.github.io/blog/what-I-want</link>
+            <guid>https://rogeliolozano.github.io/blog/what-I-want</guid>
+            <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[What do I need to learn to know what I want?]]></description>
+            <content:encoded><![CDATA[<p>What do I need to learn to know what I want?</p>
+<p>I want to learn about economy and how work transform societies.</p>
+<p>I want to learn about organizations-startups and their structure.</p>
+<p>I want to learn about what do I need in Mexico to create an organization.</p>
+<p>I want to learn about Mexico's history.</p>
+<p>I want to learn about authority.</p>
+<p>I want to learn to build relations.</p>
+<p>I want to learn what is market capitalization.</p>
+<p>I want to learn what I do not know.</p>
+<p>I want to know the leaders in Mexico's software industry.</p>
+<ul>
+<li>Create a table:
+Industry : companies <!-- -->:leaders</li>
+</ul>
+<p>Research:
+What is that industry why it is important?
+What does the company and why it is important?
+What leaders are in those companies, what do they do?
+How can I contribute?</p>
+<p>Where do I begin?</p>]]></content:encoded>
+            <category>introspection</category>
         </item>
         <item>
             <title><![CDATA[What do I like?]]></title>
@@ -305,8 +334,8 @@ Work with our development and systems team in huge projects to automate, scale a
             <link>https://rogeliolozano.github.io/blog/Solving-logical-problems</link>
             <guid>https://rogeliolozano.github.io/blog/Solving-logical-problems</guid>
             <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[To start smoothly, I'll share ideas I consider important to keep in mind when hunting counterexamples and rapidly discard conjectures that will go nowhere when solving difficult logical-constructive problems. Almost anyone subconsciously does think in two or three of these approaches, but it is useful to have a reminder of these methods of thinking.]]></description>
-            <content:encoded><![CDATA[<p>To start smoothly, I'll share ideas I consider important to keep in mind when hunting counterexamples and rapidly discard conjectures that will go nowhere when solving difficult logical-constructive problems. Almost anyone subconsciously does think in two or three of these approaches, but it is useful to have a reminder of these methods of thinking.</p>
+            <description><![CDATA[To start smoothly, I'll share ideas I consider important to keep in mind when hunting counterexamples and rapidly discard conjectures that will go nowhere when solving difficult logical-constructive problems. Almost anyone subconsciously does think in two or three of these approaches, but it I wanted to have a reminder of these methods of thinking.]]></description>
+            <content:encoded><![CDATA[<p>To start smoothly, I'll share ideas I consider important to keep in mind when hunting counterexamples and rapidly discard conjectures that will go nowhere when solving difficult logical-constructive problems. Almost anyone subconsciously does think in two or three of these approaches, but it I wanted to have a reminder of these methods of thinking.</p>
 <ul>
 <li>
 <p>Think small – Start with small examples because they are easier to construct and reason about and allow you to grasp the fundamental ideas that are in the core structure of the problem.</p>
@@ -325,6 +354,12 @@ Work with our development and systems team in huge projects to automate, scale a
 </li>
 <li>
 <p>Divide and conquer - A classical mental model to approach problems that can be divided into subproblems of smaller data size. The resulting structure after applying the method is usually a recursive tree where each node has the subproblem of smaller data size. One classical Example is MergeSort (with a runtime complexity of O(nlog(n)))</p>
+</li>
+<li>
+<p>Determine what you are going to do. Set a clear and determined mindset of what you are about to do. What is your purpose. Set that idea clearly in your mind so that you can use your energy completely in that task. Do not let multiple "threads" of thinking starting to sprinkle all over around your head. Otherwise, you will not be able to focus and think deeply to solve difficult problems.</p>
+</li>
+<li>
+<p>If you are feeling tired or distracted. Try a short walk or listen attentively to music. But only do that activity. Do not do something else; otherwise is of no usefulness.</p>
 </li>
 </ul>]]></content:encoded>
             <category>mental methods</category>
