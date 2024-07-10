@@ -5,7 +5,7 @@ authors: [rogelio]
 tags:  [mental methods]
 ---
 
-To start smoothly, I'll share ideas I consider important to keep in mind when hunting counterexamples and rapidly discard conjectures that will go nowhere when solving difficult logical-constructive problems. Almost anyone subconsciously does think in two or three of these approaches, but it is useful to have a reminder of these methods of thinking.
+To start smoothly, I'll share ideas I consider important to keep in mind when hunting counterexamples and rapidly discard conjectures that will go nowhere when solving difficult logical-constructive problems. Almost anyone subconsciously does think in two or three of these approaches, but it I wanted to have a reminder of these methods of thinking.
 
 
 - Think small – Start with small examples because they are easier to construct and reason about and allow you to grasp the fundamental ideas that are in the core structure of the problem.
@@ -20,3 +20,6 @@ To start smoothly, I'll share ideas I consider important to keep in mind when hu
 
 - Divide and conquer - A classical mental model to approach problems that can be divided into subproblems of smaller data size. The resulting structure after applying the method is usually a recursive tree where each node has the subproblem of smaller data size. One classical Example is MergeSort (with a runtime complexity of O(nlog(n)))
 
+- Determine what you are going to do. Set a clear and determined mindset of what you are about to do. What is your purpose. Set that idea clearly in your mind so that you can use your energy completely in that task. Do not let multiple "threads" of thinking starting to sprinkle all over around your head. Otherwise, you will not be able to focus and think deeply to solve difficult problems.
+
+- If you are feeling tired or distracted. Try a short walk or listen attentively to music. But only do that activity. Do not do something else; otherwise is of no usefulness.
