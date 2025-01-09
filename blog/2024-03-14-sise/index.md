@@ -24,11 +24,11 @@ The user interacted indirectly via an institutional reverse-proxy (so that name-
 
 Another required integration was for employment data. Given the lack of private APIs to easily consume that information from legacy database systems, we decided to consume it via a subscriber-publisher design pattern. They pushed a new actualization of their table view and we consume it on a weekly basis. That is represented with one of the green lines.
 
-![Architecture](./sise-architecture.png)
+<!-- ![Architecture]() -->
 
 We also decided to streamline a CICD process for the whole system with the help of another team that was starting to implement CICD practices and had the required infrastructure. The codebase was stored in different gitlab repositories and runners and registries servers were used to implement the CICD streamline. SonarQube was used for linting (static coding analysis). Finally, we dockerized the applications and deployed the containers to the corresponding layers. From my side, the process involved network configurations, regular meetings with external cloud providers, troubleshooting, and resources management and configuring. As well as creating the **dockerfiles**, **docker-compose.yamls** and **gitlab-ci.yaml's**. 
 
-![CICD](./SISE_CI-CD.drawio.png)
+<!-- ![CICD]() -->
 
 ## Product Development:
 From the development perspective, it involved developing a web application consisting of different submodules (subsystems). The stack used was:
@@ -43,13 +43,13 @@ For auditing (verification) reasons, we kept record of all the request ot system
 
 System A CRUD flows are described in the next two diagrams.
 
-![ppee](./ppee-flow.png)
-![usuario-autorizado](./usuario-autorizado-flow.png)
+<!-- ![ppee]()
+![usuario-autorizado]() -->
 
 On the other hand, the python web service was used as a proxy to keep the legacy consumers systems supported. This is because the legacy systems consulted information using SOAP and XML requests. The python service provided conversion and passed down the converted request to json to the new system B.
 
 As part of the information security actualizations, a new CA was generated and we used it to encrypt the communication between the different consumers and the service via TLS, that required resolving the domain-name of the DNS service to the new IP address of the re-engineered solution. The following diagram illustrate the idea.
-![rebinding](webservice-rebinding.png)
+<!-- ![rebinding]() -->
 
 Finally the front-end was implemented with the good practice of using both server and client side rendering. So that loading times and reduced and the overall user experience was great. We designed it using Figma and implemented the components using tailwindcss, SkeletonUI for styles and typescript with svelte for reactivity and state management.
 
